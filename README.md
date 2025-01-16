@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi!
+Hi, I am Avazbek Husainov. I am a Computer Science major at Wright State University. Over the summer, I would like to work on creating a personal portfolio. I will most likely need to use and brush up on HMTL, CSS, and JavaScript. I would also like to develop a more refined chess game probably using Java and Java Swing libraries.
